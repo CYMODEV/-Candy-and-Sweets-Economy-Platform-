@@ -1,12 +1,7 @@
 # Candy-Ecosystem-Platform-
-Public disclosure, funding statement, and value proposition for the Candyman platform. It’s structured in a way that investors, contributors, and developers can all quickly understand the vision, compliance posture, and opportunity.
-Here’s a GitHub‑ready README draft that combines a public disclosure, funding statement, and value proposition for the Candy ecosystem platform. It’s structured in a way that investors, contributors, and developers can all quickly understand the vision, compliance posture, and opportunity.
+Public disclosure, funding statement, and value proposition for the Candyman platform. It’s structured for investors, contributors, and developers can all quickly understand the vision, compliance posture, and opportunity.
 
 ---
-
-Candy Ecosystem Platform
-
-Public Disclosure
 
 Candy ecosystem platform is an experimental gamified economic engine designed to teach financial literacy while powering real‑world commerce.
 
